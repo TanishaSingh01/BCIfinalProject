@@ -243,3 +243,9 @@ We used an ensemble classifier combining Random Forest, XGBoost, and K-Nearest N
 5. Makeig, S., Debener, S., Onton, J., & Delorme, A. (2004). Mining event-related brain dynamics. Trends in Cognitive Sciences, 8(5), 204–210. https://doi.org/10.1016/j.tics.2004.03.008
 
 6. Omejc, N., Rojc, B., Battaglini, P. P., & Marusic, U. (2019). Review of the therapeutic neurofeedback method using electroencephalography: EEG Neurofeedback. Bosnian Journal of Basic Medical Sciences, 19(3), 213–220. https://doi.org/10.17305/bjbms.2018.3785
+
+
+
+
+https://github.com/user-attachments/assets/251aa820-69ca-47aa-807d-17c8748d6ea5
+
